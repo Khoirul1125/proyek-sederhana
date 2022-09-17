@@ -1,0 +1,76 @@
+.badan{
+    background: #222fd9;
+}
+.tengah{
+    background-color: white;
+    align-items: center;
+    width: 55%;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 350px;
+    border-radius: 10px;
+}
+#connectUs{
+    background: #d0e1f5;
+    height: 300px;
+    width: 100%;
+    margin-top: -8px;
+    float: left;
+}
+#connectUsImage{
+    width: 250px;
+    float: left;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+#connectUsText{
+    margin-top: 50px; 
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#garis hr{
+    background-color: #222fd9;
+    height: 4px;
+}
+.sosmed{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    height: 150px;
+}
+#insta{
+    background-color: #a4497f;
+    width: 244px;
+    float: left;
+    height: 100px;
+}
+#fb{
+    background-color: #7084d5;
+    width: 244px;
+    float: left;
+    height: 100px;
+}
+#twit{
+    background-color: #99c5f6;
+    width: 245px;
+    float: left;
+    height: 100px;
+}
+.sosmedtext{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    text-align: center;
+    margin-top: 10px;
+
+}
+#footer{
+    background-color: white;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    color: #222fd9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    vertical-align: middle;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
